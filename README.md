@@ -1,9 +1,10 @@
 # Readme
 Building....
-The document repository of <\$NAME\$> project (seemly taht we don't have a name)
+The document repository of <\$NAME\$> project (seemly we don't have a name)
 
 ## Features
 
 ## Contents
 - Architecture
-    - [Knowledge Tree](./Architecture/Knowledge%20Tree%20Method.md)
+    - [Knowledge Tree en](./Architecture/knowledge_tree_en.md)
+    - [Knowledge Tree cn](./Architecture/knowledge_tree_cn.md)
