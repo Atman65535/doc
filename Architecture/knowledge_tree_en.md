@@ -24,8 +24,9 @@ KTree aligns with standard tree structure. One node here serves as an acceptable
 		|
 		... then next node...
 ```
-
+> [!NOTE]
 > **Node and edge**
+>
 >Edge is path and requirements, while node is goal with acceptable criterion. Once the criterion is reached, we pass the node without mercy (don't pursue best here, but design criterion carefully at beginning).
 >Eg: Though Kalman Filter is a kind of method, however the goal, getting pose, is acceptable and measurable. 
 >We can build the system with reaching nodes, but not edges. 
@@ -38,7 +39,8 @@ Finally, all branches will merge into our final goal. From `Kalman Filter` to `A
 ## Usage of Tree
 The philosophy behind a Minimum Viable Product (MVP) is not full-stack mastering but loops with phased iterations.
 This procedure is align with the progress on the tree. We start from the minimal leaf edge (or node that contains nothing), and light nodes progressively. We can build our first version with several sparse nodes, while our final project will contains all nodes. However, our product will be actionable after the first version though that version could appear poor.
-> **What is MVP?**
+> **What is [MVP](./sop_en.md#mvp)?**
+> 
 >When we developing sth, usually we don't build the final version once, but iterate our product iteratively. The first runnable version, containing the most stable techniques and basic systems is called MVP. Then all enhancement and changes are based on that version.
 
 ## Pruning

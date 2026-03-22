@@ -80,6 +80,7 @@ Every thing starts from baseline.
 ```
 Actually I didn't followed all rules, however, I finished the project finally.
 The key of SOP and MVP is not cold execution, but follow the objective law of the workflow of human. 
+
 Quite abstract right? Practice it.
 
 [^1]:[wikipedia](https://en.wikipedia.org/wiki/Standard_operating_procedure)

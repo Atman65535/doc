@@ -1,3 +1,5 @@
+> Translated by Gemini
+
 >本文档仅作为概念指南，而非死板的执行标准。在应用这些原则时，请保持批判性思考。
 
 # 知识树 (Knowledge Tree, KTree)
