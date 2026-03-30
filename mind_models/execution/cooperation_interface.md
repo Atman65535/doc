@@ -14,3 +14,4 @@ The requirements could be data format, precise co-variance matrix, or some spati
 
 The core philosophy of interface is not to design the interface, but define a clear boundary between subsystems, for  better communication and responsibility allocation. Then avoid the mismatch of systems.  
 So if your tasks are too complicated to decouple and design a clear interface, just define it coarsely, and keep on communication.
+It is highly recommended that maintaining an interface version repository.
